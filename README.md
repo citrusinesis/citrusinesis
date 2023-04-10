@@ -8,9 +8,6 @@
   - 🖥️ Backend
   - ⛓️ Blockchain
 
-#### Please Look At It 🙏
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gdsc-ssu&repo=ssung-delivery-back&theme=github_dark)](https://github.com/gdsc-ssu/ssung-delivery-back)
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citrusinesis&layout=compact&theme=github_dark)](https://github.com/citrusinesis/github-readme-stats)
