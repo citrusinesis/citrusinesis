@@ -9,7 +9,14 @@
   - ⛓️ Blockchain
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citrusinesis&layout=compact&theme=github_dark)](https://github.com/citrusinesis/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=citrusinesis&show_icons=true&theme=github_dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=citrusinesis&layout=compact&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=citrusinesis&layout=compact&theme=github_light">
+  <img alt="IMAGE" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citrusinesis&layout=compact&theme=github_light">
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=citrusinesis&show_icons=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=citrusinesis&show_icons=true&theme=github_light">
+  <img alt="IMAGE" src="https://github-readme-stats.vercel.app/api?username=citrusinesis&show_icons=true&theme=github_light">
+</picture>
