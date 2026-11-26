@@ -1,4 +1,4 @@
-### Jiho Song
+### Jiho Song 👻
 
 Software engineer building systems, data pipelines, and infrastructure — mostly in Rust and Go.  
 Currently leading the DX Team at [Asteromorph](https://asteromorph.com/)
